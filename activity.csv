@@ -1,0 +1,151 @@
+activityId,name,category,duration,energy_needed
+A001,Lari Santai Pagi,Olahraga,Sedang,Sedang-Tinggi
+A002,Membaca Artikel Berita Online,Belajar,Singkat-Sedang,Rendah
+A003,Memasak Sarapan Sehat,Produktivitas,Sedang,Sedang
+A004,Meditasi Pernapasan 5 Menit,Relaksasi,Singkat,Rendah
+A005,Membuat To-Do List Harian,Produktivitas,Singkat,Rendah
+A006,Mendengarkan Musik Favorit,Hiburan,Fleksibel,Rendah
+A007,Peregangan Ringan di Sela Kerja,Kesehatan,Singkat,Rendah
+A008,Menulis Jurnal Pagi/Malam,Pengembangan Diri,Singkat-Sedang,Rendah
+A009,Menonton Video Tutorial Singkat,Belajar,Singkat-Sedang,Rendah-Sedang
+A010,Brainstorming Ide untuk Proyek,Produktivitas,Sedang,Sedang
+A011,Membersihkan Area Meja Kerja,Produktivitas,Singkat,Rendah-Sedang
+A012,Bermain Game Puzzle Sederhana,Hiburan,Singkat-Sedang,Rendah-Sedang
+A013,Menelepon Teman/Keluarga,Sosial,Sedang-Lama,Rendah
+A014,Jalan Kaki Sore di Sekitar Rumah,Olahraga,Sedang,Sedang
+A015,Merencanakan Menu Mingguan,Produktivitas,Sedang,Rendah-Sedang
+A016,Menggambar/Mewarnai Abstrak,Hiburan,Sedang-Lama,Rendah-Sedang
+A017,Membaca Satu Bab Buku Non-Fiksi,Pengembangan Diri,Sedang,Sedang
+A018,Latihan Yoga untuk Pemula,Relaksasi,Sedang,Sedang
+A019,Merapikan Folder Digital/Email,Produktivitas,Sedang,Rendah-Sedang
+A020,Belajar Kosakata Bahasa Baru (5 kata),Belajar,Singkat,Sedang
+A021,Membuat Minuman Hangat & Menikmatinya,Relaksasi,Singkat,Rendah
+A022,Menonton Komedi Pendek,Hiburan,Singkat-Sedang,Rendah
+A023,Menulis Puisi/Cerita Pendek,Kreativitas,Sedang-Lama,Sedang
+A024,Riset Singkat Topik yang Menarik,Belajar,Sedang,Sedang
+A025,Berkebun Skala Kecil (Tanaman Pot),Hobi,Sedang,Rendah-Sedang
+A026,Mendengarkan Podcast Edukatif,Belajar,Fleksibel,Rendah
+A027,Senam Aerobik Ringan via Video,Olahraga,Sedang,Sedang-Tinggi
+A028,Menyusun Rencana Belajar/Karir,Pengembangan Diri,Sedang-Lama,Sedang
+A029,Latihan Teknik Relaksasi Progresif,Relaksasi,Singkat-Sedang,Rendah
+A030,Mengorganisir Foto Digital,Produktivitas,Sedang-Lama,Rendah-Sedang
+A031,Ikut Webinar Singkat tentang Industri Tren,Pengembangan Diri,Sedang-Lama,Sedang
+A032,Membaca Ulang Catatan Kuliah/Meeting Penting,Produktivitas,Sedang,Sedang
+A033,Menyusun Rencana Keuangan Pribadi Bulanan,Produktivitas,Sedang,Sedang
+A034,Belajar Satu Fungsi Excel/Spreadsheet Baru,Belajar,Singkat-Sedang,Sedang
+A035,Menulis Draf Email Penting,Produktivitas,Singkat-Sedang,Sedang
+A036,Merapikan Bookmark Browser,Produktivitas,Singkat,Rendah
+A037,Mengikuti Kursus Online Singkat (1 modul),Belajar,Sedang-Lama,Sedang
+A038,Latihan Pidato/Presentasi Singkat,Pengembangan Diri,Sedang,Sedang-Tinggi
+A039,Membuat Mind Map untuk Ide Kompleks,Produktivitas,Sedang,Sedang
+A040,Update Profil LinkedIn/CV,Pengembangan Diri,Sedang,Rendah-Sedang
+A041,Belajar Teknik Mengelola Waktu (Pomodoro),Produktivitas,Singkat,Rendah
+A042,Evaluasi Produktivitas Mingguan,Produktivitas,Singkat-Sedang,Rendah-Sedang
+A043,Membersihkan Inbox Email dari Spam/Langganan,Produktivitas,Sedang,Rendah
+A044,Menetapkan 3 Target Utama untuk Minggu Depan,Produktivitas,Singkat,Rendah-Sedang
+A045,Membaca Studi Kasus Bisnis/Industri,Pengembangan Diri,Sedang,Sedang
+A046,Menonton Episode Serial TV Favorit,Hiburan,Sedang-Lama,Rendah
+A047,Bermain Game Strategi Ringan (Mobile/PC),Hiburan,Sedang,Sedang
+A048,Mencoba Resep Minuman Kreatif (Mocktail),Hiburan,Singkat-Sedang,Rendah-Sedang
+A049,Membuat Playlist Musik Sesuai Mood,Hiburan,Singkat,Rendah
+A050,Menulis Cerita Fiksi Singkat (1 halaman),Kreativitas,Sedang-Lama,Sedang
+A051,Mengunjungi Museum Virtual Online,Belajar,Sedang-Lama,Rendah
+A052,Menyanyi Karaoke di Rumah (Aplikasi/Video),Hiburan,Sedang,Sedang
+A053,Membuat Kerajinan Tangan Sederhana (Origami),Hobi,Singkat-Sedang,Rendah-Sedang
+A054,Menonton Video Konser Musik Online,Hiburan,Lama,Rendah-Sedang
+A055,Mencoba Filter Foto/Video Kreatif,Hiburan,Singkat,Rendah
+A056,Membaca Komik/Manga Online,Hiburan,Sedang,Rendah
+A057,Mendesain Poster Sederhana (Canva/PPT),Kreativitas,Sedang,Sedang
+A058,Menulis Blog Post tentang Hobi/Minat,Kreativitas,Lama,Sedang
+A059,Mengikuti Tutorial Menggambar Kartun Dasar,Kreativitas,Sedang,Rendah-Sedang
+A060,Bermain Alat Musik (Latihan Lagu Sederhana),Hobi,Sedang,Sedang
+A061,"Mendengarkan Suara Alam (Hujan, Hutan)",Relaksasi,Fleksibel,Rendah
+A062,Melakukan Teknik Pernapasan Dalam (Box Breathing),Relaksasi,Singkat,Rendah
+A063,Menulis Surat untuk Diri Sendiri di Masa Depan,Pengembangan Diri,Sedang,Rendah
+A064,Melakukan Perawatan Kulit Wajah Sederhana,Relaksasi,Singkat-Sedang,Rendah
+A065,Menikmati Secangkir Teh Herbal Tanpa Kafein,Relaksasi,Singkat,Rendah
+A066,Melihat Foto-foto Liburan Lama,Relaksasi,Singkat-Sedang,Rendah
+A067,Membaca Puisi atau Kutipan Inspiratif,Pengembangan Diri,Singkat,Rendah
+A068,Duduk Tenang di Balkon/Dekat Jendela,Relaksasi,Singkat-Sedang,Rendah
+A069,Latihan Mindfulness (Fokus pada Satu Objek),Relaksasi,Singkat,Rendah
+A070,Mandi Air Hangat dengan Aromaterapi,Relaksasi,Sedang,Rendah
+A071,Membuat Daftar Hal yang Disyukuri (Gratitude List),Pengembangan Diri,Singkat,Rendah
+A072,Melakukan Peregangan Leher dan Bahu,Kesehatan,Singkat,Rendah
+A073,Menonton Video ASMR yang Menenangkan,Hiburan,Fleksibel,Rendah
+A074,Memeluk Bantal atau Selimut Favorit,Relaksasi,Singkat,Rendah
+A075,Tidak Melakukan Apapun Selama 5-10 Menit,Relaksasi,Singkat,Rendah
+A076,Naik Turun Tangga Beberapa Kali,Kesehatan,Singkat,Sedang
+A077,Latihan Plank (Beberapa set),Olahraga,Singkat,Sedang-Tinggi
+A078,Bersepeda Statis di Rumah,Olahraga,Sedang-Lama,Sedang-Tinggi
+A079,Shadow Boxing (Gerakan Tinju Tanpa Beban),Olahraga,Singkat-Sedang,Sedang-Tinggi
+A080,Latihan Keseimbangan (Berdiri Satu Kaki),Kesehatan,Singkat,Rendah-Sedang
+A081,Jogging di Tempat,Olahraga,Singkat-Sedang,Sedang
+A082,Mengikuti Video Senam Aerobik Intensitas Rendah,Olahraga,Sedang,Sedang
+A083,Latihan Squat dan Lunges (Tanpa Beban),Olahraga,Singkat-Sedang,Sedang
+A084,Berjalan Cepat Keliling Kompleks/Taman,Olahraga,Sedang-Lama,Sedang
+A085,Latihan Pilates Dasar untuk Pemula,Olahraga,Sedang,Sedang
+A086,Bermain Lempar Tangkap Bola dengan Dinding,Olahraga,Singkat-Sedang,Sedang
+A087,Peregangan Dinamis Sebelum Aktivitas Berat,Olahraga,Singkat,Rendah-Sedang
+A088,Latihan Push-up (Variasi sesuai kemampuan),Olahraga,Singkat,Sedang-Tinggi
+A089,Menari Bebas Mengikuti Irama Musik Energik,Olahraga,Singkat-Sedang,Sedang-Tinggi
+A090,Pendinginan Setelah Olahraga (Peregangan Statis),Olahraga,Singkat,Rendah
+A091,Mengirim Pesan Singkat Menyapa Teman Lama,Sosial,Singkat,Rendah
+A092,Ikut Diskusi di Grup Online Sesuai Minat,Sosial,Sedang,Rendah-Sedang
+A093,Video Call Grup dengan Keluarga Besar,Sosial,Lama,Rendah-Sedang
+A094,Memberikan Komentar Positif di Media Sosial,Sosial,Singkat,Rendah
+A095,Merencanakan Pertemuan (Online/Offline),Sosial,Singkat-Sedang,Rendah-Sedang
+A096,Bermain Game Online Multi-pemain Santai,Hiburan,Sedang-Lama,Sedang
+A097,Mengucapkan Selamat Ulang Tahun/Perayaan,Sosial,Singkat,Rendah
+A098,Berbagi Artikel/Video Menarik ke Teman,Sosial,Singkat,Rendah
+A099,Menawarkan Bantuan kepada Tetangga/Rekan,Sosial,Fleksibel,Rendah-Sedang
+A100,Ikut Sesi Tanya Jawab Live dengan Tokoh Idola,Sosial,Sedang-Lama,Rendah
+A101,Menulis Ucapan Terima Kasih kepada Seseorang,Sosial,Singkat,Rendah
+A102,Mengadakan Nonton Bareng Virtual (Watch Party),Hiburan,Lama,Rendah
+A103,Bertukar Rekomendasi Buku/Film dengan Teman,Sosial,Singkat-Sedang,Rendah
+A104,Memberi Dukungan Emosional pada Teman Curhat,Sosial,Fleksibel,Rendah-Sedang
+A105,Ikut Klub Buku Online/Offline (Diskusi),Belajar,Lama,Sedang
+A106,Mencuci Piring Setelah Makan,Rumah Tangga,Singkat,Rendah-Sedang
+A107,Merapikan Tempat Tidur Setelah Bangun,Rumah Tangga,Singkat,Rendah
+A108,Menyiram Tanaman Hias di Rumah,Rumah Tangga,Singkat,Rendah
+A109,Membuang Sampah dari Kamar/Ruang Kerja,Rumah Tangga,Singkat,Rendah
+A110,Menyiapkan Pakaian untuk Besok Pagi,Produktivitas,Singkat,Rendah
+A111,Membersihkan Debu di Satu Area Kecil,Rumah Tangga,Singkat-Sedang,Rendah-Sedang
+A112,Mengatur Ulang Isi Kulkas,Rumah Tangga,Sedang,Sedang
+A113,Melipat Pakaian Kering,Rumah Tangga,Sedang-Lama,Rendah-Sedang
+A114,Membuat Daftar Belanjaan Mingguan,Produktivitas,Singkat-Sedang,Rendah
+A115,Membersihkan Layar Laptop/HP/TV,Rumah Tangga,Singkat,Rendah
+A116,Belajar Satu Tips Menghemat Energi di Rumah,Belajar,Singkat,Rendah
+A117,Mengganti Seprai Tempat Tidur,Rumah Tangga,Singkat-Sedang,Sedang
+A118,Menyedot Debu Satu Ruangan,Rumah Tangga,Sedang,Sedang-Tinggi
+A119,Memeriksa Tanggal Kadaluwarsa Makanan/Obat,Rumah Tangga,Singkat,Rendah
+A120,Menjahit Kancing Lepas/Lubang Kecil Pakaian,Rumah Tangga,Singkat-Sedang,Rendah-Sedang
+A121,Menonton Video Debat Intelektual,Pengembangan Diri,Sedang-Lama,Sedang
+A122,Mencari Tahu Tentang Satu Tokoh Sejarah Penting,Belajar,Sedang,Rendah-Sedang
+A123,Menerjemahkan Paragraf Pendek ke Bahasa Asing,Belajar,Singkat-Sedang,Sedang
+A124,Menyusun Portofolio Karya Sederhana (Digital),Pengembangan Diri,Lama,Sedang
+A125,Belajar Satu Teknik Negosiasi Dasar,Belajar,Singkat-Sedang,Sedang
+A126,Membaca Ringkasan Buku Bisnis/Self-Help Populer,Pengembangan Diri,Sedang,Rendah-Sedang
+A127,Mengarang Melodi Sederhana (Bersiul/Aplikasi),Kreativitas,Singkat-Sedang,Rendah-Sedang
+A128,Mencoba Membuat Komik Strip Pendek (1-3 Panel),Kreativitas,Sedang,Sedang
+A129,Menonton Pertunjukan Stand-Up Comedy Online,Hiburan,Sedang-Lama,Rendah
+A130,Menyusun Ulang Dekorasi Satu Sudut Ruangan,Kreativitas,Sedang,Rendah-Sedang
+A131,Menulis Ulasan Film/Buku yang Baru Ditonton/Dibaca,Kreativitas,Sedang,Sedang
+A132,Membuat Peta Imajinatif Dunia Fantasi Sendiri,Kreativitas,Sedang-Lama,Sedang
+A133,"Melakukan ""Body Scan Meditation""",Relaksasi,Sedang,Rendah
+A134,Menghabiskan Waktu Berkualitas dengan Hewan Peliharaan,Relaksasi,Fleksibel,Rendah
+A135,"Membuat ""Vision Board"" Sederhana untuk Tujuan Pribadi",Pengembangan Diri,Sedang-Lama,Rendah-Sedang
+A136,Mewarnai Buku Mewarnai Dewasa (Mandala/Pola),Relaksasi,Sedang-Lama,Rendah
+A137,Mendengarkan Musik Ambient untuk Relaksasi,Relaksasi,Fleksibel,Rendah
+A138,Melakukan Afirmasi Positif di Depan Cermin,Relaksasi,Singkat,Rendah
+A139,Latihan HIIT (High-Intensity Interval Training) Singkat,Olahraga,Singkat-Sedang,Tinggi
+A140,Bersepeda Santai Keliling Taman Kota,Olahraga,Lama,Sedang
+A141,Latihan Kelincahan (Agility Ladder Drills jika ada),Olahraga,Singkat-Sedang,Sedang-Tinggi
+A142,Bermain Frisbee di Lapangan Terbuka,Olahraga,Sedang,Sedang
+A143,"Mengikuti Kelas Dansa Online (Salsa, Hip-hop, dll.)",Olahraga,Sedang-Lama,Sedang-Tinggi
+A144,Mengirim Kartu Pos/Surat Fisik ke Teman Jauh,Sosial,Singkat,Rendah
+A145,Menjadi Relawan Online untuk Proyek Singkat,Sosial,Fleksibel,Rendah-Sedang
+A146,"Bergabung dengan Sesi ""Speed Friending"" Online",Sosial,Sedang,Sedang
+A147,Membersihkan Peralatan Masak Secara Menyeluruh,Rumah Tangga,Sedang,Sedang
+A148,Mengganti Baterai Alat Elektronik yang Mati,Rumah Tangga,Singkat,Rendah
+A149,Menyusun Rencana Darurat Keluarga Sederhana,Produktivitas,Sedang,Rendah-Sedang
+A150,Belajar Cara Memperbaiki Kerusakan Kecil di Rumah (mis. keran bocor via tutorial),Rumah Tangga,Sedang-Lama,Sedang
