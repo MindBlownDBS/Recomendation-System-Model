@@ -32,7 +32,7 @@ def load_and_preprocess_data():
     
     # === BAGIAN CONTENT BASED FILTERING ===
     try:
-        activities_df = pd.read_csv('activity.csv')
+        activities_df = pd.read_csv('dataset/activity.csv')
         activities_df['features'] = activities_df['category'].astype(str) + ' ' + \
                                     activities_df['duration'].astype(str) + ' ' + \
                                     activities_df['energy_needed'].astype(str)
@@ -55,21 +55,21 @@ def load_and_preprocess_data():
     # === BAGIAN COLLABORATIVE FILTERING ===
     try:
         # Pastikan file 'rating.csv' berada di direktori yang sama atau pathnya benar
-        ratings_df_global = pd.read_csv('rating.csv')
+        ratings_df_global = pd.read_csv('dataset/rating.csv')
         
         import json
 
         # Load mapping user & activity
-        with open("user_to_user_encoded.json") as f:
+        with open("data/user_to_user_encoded.json") as f:
             user_to_user_encoded_map = json.load(f)
 
-        with open("user_encoded_to_user.json", "r") as f:
+        with open("data/user_encoded_to_user.json", "r") as f:
             user_encoded_to_user_map = json.load(f)
 
-        with open("activity_to_activity_encoded.json", "r") as f:
+        with open("data/activity_to_activity_encoded.json", "r") as f:
             activity_to_activity_encoded_map = json.load(f)
 
-        with open("activity_encoded_to_activity.json", "r") as f:
+        with open("data/activity_encoded_to_activity.json", "r") as f:
             activity_encoded_to_activity_map = json.load(f)
 
         # Konversi key json dari string ke int (opsional tapi aman)
@@ -171,7 +171,7 @@ def recommend_collaborative_tflite_api():
 
     # Load model TFLite interpreter (hanya sekali per request)
     try:
-        interpreter = tflite.Interpreter(model_path="recommender_model.tflite")
+        interpreter = tflite.Interpreter(model_path="models/recommender_model.tflite")
         interpreter.allocate_tensors()
     except Exception as e:
         return jsonify({"error": f"Gagal memuat model TFLite: {e}"}), 500
